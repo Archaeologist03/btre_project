@@ -6,5 +6,8 @@
 ##### 2) Virtual enviroment:
 `source ./venv/bin/active`
 
+##### 3) Install dependencies:
+`pip install -r requirements.txt`
+
 ##### 3) Start app(dev)
 `python manage.py runserver`
